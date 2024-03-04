@@ -10,6 +10,8 @@ as Malls or supermarkets.
 
 The classifier has been trained from three different public datasets and combing all the
 images together we reach to 12000 unique images.
+The building of the model is based on the Keras Framework. The Architecture of the model
+is inspired from the VGG network, and it has 4 VGG blocks
 
 
 **Training Datasets**:
@@ -18,10 +20,6 @@ images together we reach to 12000 unique images.
 * ***https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset***
 
 * ***https://humansintheloop.org/resources/datasets/medical-mask-dataset***
-
-
-The building of the model is based on the Keras Framework. The Architecture of the model
-is inspired from the VGG network, and it has 4 VGG blocks
 
 
 
