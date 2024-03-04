@@ -25,14 +25,14 @@ is inspired from the VGG network, and it has 4 VGG blocks
 
 **Model Performance**:
 
-![Example Image](images/im_1.png)
+![Example Image](images/im_3.png)
 
 ![Example Image](images/im_2.png)
 
-![Example Image](images/im_3.png)
+![Example Image](images/im_6.png)
 
 ![Example Image](images/im_4.png)
 
 ![Example Image](images/im_5.png)
 
-![Example Image](images/im_6.png)
+![Example Image](images/im_1.png)
