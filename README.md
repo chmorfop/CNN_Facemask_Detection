@@ -18,3 +18,23 @@ images together we reach to 12000 unique images.
 * ***https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset***
 
 * ***https://humansintheloop.org/resources/datasets/medical-mask-dataset***
+
+
+The building of the model is based on the Keras Framework. The Architecture of the model
+is inspired from the VGG network, and it has 4 VGG blocks
+
+
+
+**Model Performance**:
+
+![Example Image](images/im_1.png)
+
+![Example Image](images/im_2.png)
+
+![Example Image](images/im_3.png)
+
+![Example Image](images/im_4.png)
+
+![Example Image](images/im_5.png)
+
+![Example Image](images/im_6.png)
